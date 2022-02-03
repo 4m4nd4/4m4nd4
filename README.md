@@ -3,7 +3,7 @@
 - 👩‍💻 Amo Front-End!
 - ✉️ Gmail: amanda310503@gmail.com
 - 😄 Pronomes: ela/dela
-- ⚡ Fun fact: Amo café!
+- ⚡ Fun fact: Amo pizza e café!
 
 <div align="center">
   <a href="https://github.com/4m4nd4">
