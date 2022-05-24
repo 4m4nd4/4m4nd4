@@ -1,4 +1,4 @@
-### Oii, sou Amanda Ramos!🙋‍♀️
+### Olá, sou Amanda Ramos!🙋‍♀️
 
 - 👩‍💻 Amo Front-End!
 - ✉️ Gmail: amanda310503@gmail.com
