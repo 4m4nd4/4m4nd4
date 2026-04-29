@@ -1,6 +1,6 @@
 ### Olá, sou Amanda Ramos!🙋‍♀️
 
-- 👩‍💻 Amo Front-End!
+- 👩‍💻 Front-End dev
 - ✉️ Gmail: amanda310503@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Amo pizza e café!
