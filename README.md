@@ -2,8 +2,8 @@
 
 - 👩‍💻 Front-End dev
 - ✉️ Gmail: amanda310503@gmail.com
-- 😄 Pronomes: ela/dela
-- ⚡ Fun fact: Amo pizza e café!
+- 😄 Pronomes: ela/dela - she/her
+- ⚡ Fun fact: I love pizza!
 
 ##
 
